@@ -224,7 +224,7 @@ button {
 /* Опис переваг */
 .section {
     padding-top: 94px;
-    padding-bottom: 0px;
+    padding-bottom: 94px;
     }
 
 .section-title {
@@ -256,6 +256,7 @@ letter-spacing: 0.03em;
 .feature-list .text {
     margin-top: 0;
     margin-bottom: 0px;
+    padding-top: 0;
     font-weight: 400;
 font-size: 14px;
 line-height: 1.71;
@@ -276,7 +277,7 @@ letter-spacing: 0.03em;
 }
 
 .list .item {
-    padding-bottom: 94px;
+    padding-bottom: 0px;
 }
 /* команда */
 
@@ -343,7 +344,7 @@ letter-spacing: 0.03em;
     }
 
 .btn-links {
-    margin-top: 94px;
+    margin-top: 0px;
     margin-bottom: 50px;
         justify-content: center;
       }
@@ -392,7 +393,7 @@ color: var(--primary-text-color)
 flex-wrap: wrap;
 padding-left: 0;
 padding-top: 0px;
-padding-bottom: 94px;
+padding-bottom: 0px;
 }
 
 /* підвал */
